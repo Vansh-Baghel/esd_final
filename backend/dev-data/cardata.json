@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Swift",
+    "owner": "Vansh",
+    "color": "white",
+    "price": "30000"
+  },
+  {
+    "name": "Hyundai",
+    "owner": "Thanisha",
+    "color": "blue",
+    "price": "50000"
+  },
+  {
+    "name": "Maruti Suzuki",
+    "owner": "Janhavi",
+    "color": "black",
+    "price": "30010"
+  },
+  {
+    "name": "Toyota",
+    "owner": "Pratham",
+    "color": "pink",
+    "price": "31000"
+  },
+  {
+    "name": "Honda",
+    "owner": "Deepak",
+    "color": "purple",
+    "price": "30000"
+  }
+]
